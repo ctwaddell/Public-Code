@@ -1,0 +1,10 @@
+{
+    "Name": "BlayKeyBlocks",
+    "Author": "casey",
+    "Version": "1.0.0",
+    "Description": "Adds the mythical BlayKeyBlocks to your Stardew Valley world.",
+    "UniqueID": "Slacc.BlayKeyBlocks",
+    "EntryDll": "BlayKeyBlocks.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
